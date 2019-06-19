@@ -1,5 +1,9 @@
 
-TensorFlow Object Detection API tutorial
+
+
+安装Tensorflow 
+安装TensorFlow Object Detection API 也就是安装models库
+
 ============================================
 
 
