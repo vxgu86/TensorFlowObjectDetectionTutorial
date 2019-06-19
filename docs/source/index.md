@@ -28,9 +28,6 @@ http://tensorflow-object-detection-api-tutorial.readthedocs.io
 +--------------+------------------------------+
 
 
-.. toctree::
-   :maxdepth: 4
-   :caption: Contents:
 
    install
    camera
